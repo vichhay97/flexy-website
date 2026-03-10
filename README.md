@@ -1,0 +1,1 @@
+This project serves to build my first website from scratch with set instructions. I will also be demonstrating my flexbox knowledge.
