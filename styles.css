@@ -104,3 +104,43 @@ button {
 .modal {
     background-color: #3882F6;
 }
+
+.info-header {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    margin: 36px 0;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 80px;
+}
+
+.info-blocks {
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+}
+
+.info-block {
+    width: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.info-illust {
+    height: 150px;
+    width: 150px;
+    border: 3px solid #3882F6;
+    border-radius: 16px;
+    margin-bottom: 8px;
+}
+
+.info-text {
+    text-align: center;
+}
